@@ -1,10 +1,10 @@
 # React Lights Out
 
-![Site Screenshot](./lights-out.jpg)
-
 Play a game of Lights Out. Built using [React](https://reactjs.org/).
 
-The project was created for [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) by [Colt Steele](https://github.com/Colt)
+The project was created for [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) by [Colt Steele](https://github.com/Colt).
+
+![Site Screenshot](./lights-out.jpg)
 
 ## 📂 Local Installation
 
